@@ -1,2 +1,1 @@
-# ivonOOP-pract
-# Smaller_Projects
+Homeworks done for the OOP 2020 course in FMI Informatics
